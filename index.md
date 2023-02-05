@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
+Prófum þetta
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
