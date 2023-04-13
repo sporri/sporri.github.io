@@ -18,8 +18,8 @@ facebook_username: "sporri"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-#theme: "minima"
-remote_theme: sporri/mediumish-theme-jekyll
+theme: "minima"
+#remote_theme: sporri/mediumish-theme-jekyll
 
 
 rss: rss
