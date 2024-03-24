@@ -5,7 +5,7 @@ description: "If I can't dance it's not my revolution" # This will show up in pl
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "sporri@sporri.net"
-twitter_username: "sporri"
+#twitter_username: "sporri"
 github_username: "sporri"
 #linkedin_username: "linkedinuser"
 facebook_username: "sporri"
@@ -39,6 +39,6 @@ titles_from_headings:
 defaults:
   - scope:
       path: ""
-      type: post
+      type: posts
     values:
       tags: Other
